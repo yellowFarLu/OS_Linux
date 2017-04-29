@@ -1,2 +1,2 @@
 # OS_Linux
-some Knowledge aboue OS(Linux)
+some Knowledge about OS(Linux)
